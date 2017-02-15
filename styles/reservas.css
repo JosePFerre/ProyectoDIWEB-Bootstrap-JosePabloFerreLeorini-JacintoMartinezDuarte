@@ -57,20 +57,17 @@
 		
     .resEtiqueta,#resBoton{
         font-size:150%;
-        margin-top:0%
+        margin-top:5%
     }
     #resFormulario{
     font-size:100%;
     margin-top:0%
 }
    #resNombre, #resApellidos, #resEmail, #resPersonas{
-        text-align: center;
+        
     }
     
-    #reservas.row{
-        width: 48.5%;
-        display: inline-block;
-    }
+    
     #reservas .form-control, #resNum {
         font-size:150%;
         height: auto
